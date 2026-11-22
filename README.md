@@ -1,2 +1,2 @@
 # renjill-media
-Ren &amp; Jill published videos and cover images (publicmedia for Instagram posting)
+Tokyo Usagi Office published videos and cover images (publicmedia for Instagram posting)
