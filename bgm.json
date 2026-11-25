@@ -1,0 +1,62 @@
+[
+ {
+  "date": "2026-11-26",
+  "youtube_id": "VA0MHdbn5HE",
+  "minutes": 60,
+  "thumb": "bgm_2026-11-25_thumb.jpg",
+  "title": {
+   "ja": "静かな夜のバラード",
+   "en": "Quiet Night Ballads",
+   "zh": "靜夜的抒情曲",
+   "ko": "조용한 밤의 발라드"
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "youtube_id": "aH_ypYR89w0",
+  "minutes": 60,
+  "thumb": "bgm_2026-11-21_thumb.jpg",
+  "title": {
+   "ja": "オフィス・ダンスナイト",
+   "en": "Office Dance Night",
+   "zh": "辦公室舞夜",
+   "ko": "오피스 댄스 나이트"
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "youtube_id": "zLUhOXS9o-4",
+  "minutes": 60,
+  "thumb": "bgm_2026-11-18_thumb.jpg",
+  "title": {
+   "ja": "和の夕べ",
+   "en": "Japanese Garden Evening",
+   "zh": "和風的傍晚",
+   "ko": "일본풍의 저녁"
+  }
+ },
+ {
+  "date": "2026-11-14",
+  "youtube_id": "gb0SAEwlNtw",
+  "minutes": 60,
+  "thumb": "bgm_2026-11-13_thumb.jpg",
+  "title": {
+   "ja": "雨の夜の残業",
+   "en": "Rainy Night Overtime",
+   "zh": "下雨夜的加班",
+   "ko": "비 오는 밤의 야근"
+  }
+ },
+ {
+  "date": "2026-11-14",
+  "youtube_id": "KtT5VpuU0Io",
+  "minutes": 60,
+  "thumb": "bgm_2026-11-14_thumb.jpg",
+  "title": {
+   "ja": "海辺のオフィス",
+   "en": "Seaside Office",
+   "zh": "海邊的辦公室",
+   "ko": "바닷가 사무실"
+  }
+ }
+]
