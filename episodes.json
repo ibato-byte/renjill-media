@@ -1,59 +1,119 @@
 [
- {
-  "ep": "timothy1",
-  "date": "2026-11-26",
-  "title": {
-   "ja": "社員からのお土産 Part 1「ひとくちだけ」",
-   "en": "A souvenir from the new hire, Part 1: Just One Bite",
-   "zh": "新人帶來的伴手禮 Part 1",
-   "ko": "신입이 사 온 기념품 Part 1"
+  {
+    "ep": "lan1",
+    "date": "2026-11-28",
+    "time": "18:00",
+    "title": {
+      "ja": "LANケーブル事件 Part 1「締切5分前にネットが落ちた！？」",
+      "en": "The LAN Cable Incident, Part 1: The Wi-Fi Died 5 Minutes to Deadline?!",
+      "zh": "網路線事件 Part 1「截止前5分鐘斷網了！？」",
+      "ko": "랜선 사건 Part 1 「마감 5분 전에 인터넷이 끊겼다!?」"
+    },
+    "caption": {
+      "ja": "送信ボタンを押した直後、ネットが切れた。ケーブルをたどった先には、もぐもぐのモチ課長。（つづく）",
+      "en": "Right after hitting send, the internet dies. Follow the cable… and there's Boss Mochi, munching. (to be continued)",
+      "zh": "剛按下傳送，網路就斷了。順著網路線找過去，是正在嚼嚼的麻糬課長。（待續）",
+      "ko": "전송 버튼을 누르자마자 인터넷이 끊겼다. 케이블을 따라가 보니 우물우물 중인 모찌 과장님. (계속)"
+    },
+    "cover": "20261128_lan_1_cover.jpg",
+    "video": "20261128_lan_1.mp4",
+    "youtube_id": "VtLGvnwNfvI"
   },
-  "caption": {
-   "ja": "新人クリの旅行のお土産は「金のチモシー」。ユズがひとくちだけ…のはずが、皿はみるみる3分の1に。そこへ課長が。（つづく）",
-   "en": "Kuri brought back \"Golden Timothy\" from his trip. Yuzu takes just one bite... then the plate is down to a third. And here comes the boss. (to be continued)",
-   "zh": "新人栗子旅行帶回的伴手禮是「黃金提摩西草」。柚子只吃一口…盤子卻剩下三分之一。這時課長來了。（待續）",
-   "ko": "신입 쿠리의 여행 기념품은 「황금 티모시」. 유자가 한 입만… 접시는 어느새 3분의 1. 그때 과장님이. (계속)"
+  {
+    "ep": "lan2",
+    "date": "2026-11-28",
+    "time": "18:01",
+    "title": {
+      "ja": "LANケーブル事件 Part 2「上司がWi-Fiルーターに」",
+      "en": "The LAN Cable Incident, Part 2: My Boss Became the Wi-Fi Router",
+      "zh": "網路線事件 Part 2「課長變成了Wi-Fi路由器」",
+      "ko": "랜선 사건 Part 2 「상사가 와이파이 공유기가 됐다」"
+    },
+    "caption": {
+      "ja": "課長が動くと電波が切れる。お願いだから動かないで。やっと送れたと思ったら、取引先からメールが。（つづく）",
+      "en": "Every time the boss moves, the signal drops. Please don't move. It finally sends… then an email from the client. (to be continued)",
+      "zh": "課長一動，訊號就斷。拜託不要動。好不容易傳出去了，客戶卻來了一封信。（待續）",
+      "ko": "과장님이 움직이면 신호가 끊긴다. 제발 움직이지 마세요. 겨우 보냈다 싶었는데 거래처에서 메일이. (계속)"
+    },
+    "cover": "20261128_lan_2_cover.jpg",
+    "video": "20261128_lan_2.mp4",
+    "youtube_id": "SkAz0p_PIlE"
   },
-  "cover": "20261126_timothy1_cover.jpg",
-  "video": "20261126_timothy1.mp4",
-  "youtube_id": "x0-yeftMbEQ"
- },
- {
-  "ep": "timothy2",
-  "date": "2026-11-26",
-  "title": {
-   "ja": "社員からのお土産 Part 2「課長が預かります」",
-   "en": "A souvenir from the new hire, Part 2: The Boss Will Hold Onto It",
-   "zh": "新人帶來的伴手禮 Part 2",
-   "ko": "신입이 사 온 기념품 Part 2"
+  {
+    "ep": "lan3",
+    "date": "2026-11-28",
+    "time": "18:02",
+    "title": {
+      "ja": "LANケーブル事件 Part 3「真犯人」",
+      "en": "The LAN Cable Incident, Part 3: The Real Culprit",
+      "zh": "網路線事件 Part 3「真兇」",
+      "ko": "랜선 사건 Part 3 「진범」"
+    },
+    "caption": {
+      "ja": "取り調べ開始。ケーブルは課長、備品は新人のクリ。では、ファイルをかじったのは…？",
+      "en": "The interrogation begins. The cable: the boss. The supplies: new hire Kuri. So who chewed the file…?",
+      "zh": "開始偵訊。網路線是課長，文具是新人栗子。那麼，咬了檔案的是…？",
+      "ko": "취조 시작. 케이블은 과장님, 비품은 신입 쿠리. 그럼 파일을 갉아먹은 건…?"
+    },
+    "cover": "20261128_lan_3_cover.jpg",
+    "video": "20261128_lan_3.mp4",
+    "youtube_id": "pzDBpI2irZM"
   },
-  "caption": {
-   "ja": "「これは課長が預かります」…のはずが、デスクでひとくち、もうひとくち。口の端に1本、残ってますよ課長。（つづく）",
-   "en": "The boss \"confiscates\" the souvenir. At his desk: one bite, then another. Boss, there's a strand sticking out of your mouth. (to be continued)",
-   "zh": "「這由課長保管」…結果在座位上一口、再一口。課長，嘴角還有一根喔。（待續）",
-   "ko": "「과장이 맡아둘게」… 그런데 자리에서 한 입, 또 한 입. 과장님, 입가에 한 가닥 남아 있어요. (계속)"
+  {
+    "ep": "timothy1",
+    "date": "2026-11-26",
+    "title": {
+      "ja": "社員からのお土産 Part 1「ひとくちだけ」",
+      "en": "A souvenir from the new hire, Part 1: Just One Bite",
+      "zh": "新人帶來的伴手禮 Part 1",
+      "ko": "신입이 사 온 기념품 Part 1"
+    },
+    "caption": {
+      "ja": "新人クリの旅行のお土産は「金のチモシー」。ユズがひとくちだけ…のはずが、皿はみるみる3分の1に。そこへ課長が。（つづく）",
+      "en": "Kuri brought back \"Golden Timothy\" from his trip. Yuzu takes just one bite... then the plate is down to a third. And here comes the boss. (to be continued)",
+      "zh": "新人栗子旅行帶回的伴手禮是「黃金提摩西草」。柚子只吃一口…盤子卻剩下三分之一。這時課長來了。（待續）",
+      "ko": "신입 쿠리의 여행 기념품은 「황금 티모시」. 유자가 한 입만… 접시는 어느새 3분의 1. 그때 과장님이. (계속)"
+    },
+    "cover": "20261126_timothy1_cover.jpg",
+    "video": "20261126_timothy1.mp4",
+    "youtube_id": "x0-yeftMbEQ"
   },
-  "cover": "20261126_timothy2_cover.jpg",
-  "video": "20261126_timothy2.mp4",
-  "youtube_id": "JX2ylTOsU54"
- },
- {
-  "ep": "timothy3",
-  "date": "2026-11-26",
-  "title": {
-   "ja": "社員からのお土産 Part 3「業務用」",
-   "en": "A souvenir from the new hire, Part 3: Bulk Size",
-   "zh": "新人帶來的伴手禮 Part 3",
-   "ko": "신입이 사 온 기념품 Part 3"
+  {
+    "ep": "timothy2",
+    "date": "2026-11-26",
+    "title": {
+      "ja": "社員からのお土産 Part 2「課長が預かります」",
+      "en": "A souvenir from the new hire, Part 2: The Boss Will Hold Onto It",
+      "zh": "新人帶來的伴手禮 Part 2",
+      "ko": "신입이 사 온 기념품 Part 2"
+    },
+    "caption": {
+      "ja": "「これは課長が預かります」…のはずが、デスクでひとくち、もうひとくち。口の端に1本、残ってますよ課長。（つづく）",
+      "en": "The boss \"confiscates\" the souvenir. At his desk: one bite, then another. Boss, there's a strand sticking out of your mouth. (to be continued)",
+      "zh": "「這由課長保管」…結果在座位上一口、再一口。課長，嘴角還有一根喔。（待續）",
+      "ko": "「과장이 맡아둘게」… 그런데 자리에서 한 입, 또 한 입. 과장님, 입가에 한 가닥 남아 있어요. (계속)"
+    },
+    "cover": "20261126_timothy2_cover.jpg",
+    "video": "20261126_timothy2.mp4",
+    "youtube_id": "JX2ylTOsU54"
   },
-  "caption": {
-   "ja": "翌日、お土産の皿は空っぽ。…と思ったら、右から重たい「ドスッ、ドスッ」。課長、それ業務用ですよね。（おわり）",
-   "en": "Next day, the souvenir plate is empty. Then a heavy THUD, THUD from the right. Boss... is that the bulk size? (the end)",
-   "zh": "隔天，伴手禮的盤子空了。…這時右邊傳來重重的「咚、咚」。課長，那是業務用的吧。（完）",
-   "ko": "다음 날, 기념품 접시는 텅. …그런데 오른쪽에서 묵직한 「쿵, 쿵」. 과장님, 그거 업소용이죠. (끝)"
-  },
-  "cover": "20261126_timothy3_cover.jpg",
-  "video": "20261126_timothy3.mp4",
-  "youtube_id": "_hOUHVvJTeU"
- }
+  {
+    "ep": "timothy3",
+    "date": "2026-11-26",
+    "title": {
+      "ja": "社員からのお土産 Part 3「業務用」",
+      "en": "A souvenir from the new hire, Part 3: Bulk Size",
+      "zh": "新人帶來的伴手禮 Part 3",
+      "ko": "신입이 사 온 기념품 Part 3"
+    },
+    "caption": {
+      "ja": "翌日、お土産の皿は空っぽ。…と思ったら、右から重たい「ドスッ、ドスッ」。課長、それ業務用ですよね。（おわり）",
+      "en": "Next day, the souvenir plate is empty. Then a heavy THUD, THUD from the right. Boss... is that the bulk size? (the end)",
+      "zh": "隔天，伴手禮的盤子空了。…這時右邊傳來重重的「咚、咚」。課長，那是業務用的吧。（完）",
+      "ko": "다음 날, 기념품 접시는 텅. …그런데 오른쪽에서 묵직한 「쿵, 쿵」. 과장님, 그거 업소용이죠. (끝)"
+    },
+    "cover": "20261126_timothy3_cover.jpg",
+    "video": "20261126_timothy3.mp4",
+    "youtube_id": "_hOUHVvJTeU"
+  }
 ]
